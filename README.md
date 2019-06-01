@@ -13,8 +13,11 @@ The second goal of the game is to study how individuals perform in different poi
 - Combination: A consumer claims two loans and combines them into a complex loan, sets an interest rate equal to or greater than the aggregate intrest rate of the the combined loans, and becomes a lender. The lender then sets minimum values for qualities that a consumer must possess in order for a consumer to claim that loan. For example, they could set conditions that a 5 xDai loan can be claimed if `{ consumer_address_nonce > 10 , win_loss_ratio < 0.9 , repayment_total >= 100 , default_total < 100 }` or if `{ consumer_address_nonce > 200 , win_loss_ratio > 0.95 , repayment_total > 0 , default_total < 4 }`.
 
 - Consumption: where a consumer claims a loan, but does not set any claim conditions so it cannot be claimed by any other party. Having the claim on the loan, the consumer has three options:
-```Case 1: Satisfy the loan by paying the interest to the loan within 24 hours.```
-```Case 2: Withdraw the funds and then satisfy the loan by paying the principle plus interest to the loan within 24 hours.```
-```Case 3: Combine this loan with another loan within 24 hours and become a lender.```
+
+Case 1: Satisfy the loan by paying the interest to the loan within 24 hours.
+
+Case 2: Withdraw the funds and then satisfy the loan by paying the principle plus interest to the loan within 24 hours.
+
+Case 3: Combine this loan with another loan within 24 hours and become a lender.
 
 
