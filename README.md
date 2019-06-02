@@ -1,8 +1,8 @@
-# Reloaner
-Decentralized marketplace that allows microloans to be combined and repackaged an unlimited number of times.
+# Recombinator
+Decentralized marketplace that allows microloans to be combined and repackaged an unlimited number of times. Loans are claimed by players who satisfy the claim conditions set by Originators.
 
 ## Core Concepts
-Reloaner is a **game** built on the xDai network that allows borrowers to originate loans from a combination of loans and become a lender. This is an infinate game open in perpetuity to all agents capable of playing. 
+Recombinator is a **game** built on the xDai network that allows borrowers to originate loans from a combination of loans and become a lender. This is an infinate game open in perpetuity to all agents capable of playing. 
 
 The first goal of the game is to create a lively marketplace of loans where credit scores can be determined by 3rd parties through address nonce, win/loss ratios, repayments totals, default totals, and a variety of other methods that have yet to be discovered.
 
